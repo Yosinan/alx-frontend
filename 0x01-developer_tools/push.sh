@@ -1,4 +1,4 @@
 git add .
-git commit -m "alx-frontend"
+git commit -m "DevTools"
 git push
 clear
