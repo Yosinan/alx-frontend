@@ -4,8 +4,8 @@
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
-    --color-light-gray: #f3f3f3;
-    --color-dark-gray: #353535;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
     --text-color: var(--color-black);
     --font-family-base: 'Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif';
     --font-family-title: 'Raleway, Helvetica Neue, Helvetica, Arial, sans-serif';
@@ -82,7 +82,7 @@ a:hover {
 }
 
 a:active {
-    background-color: var(--color-light-gray);
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
@@ -194,7 +194,7 @@ ul.row {
 .card-services a {
     display: block;
     padding: 2rem;
-    background-color: var(--color-light-gray);
+    background-color: var(--color-light-grey);
 }
 
 .card-services a:hover {
