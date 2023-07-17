@@ -39,7 +39,7 @@
     --nav-item-link-hover: var(--color-primary);
 
     /* Add a dark theme to sections */
-    [data-theme="dark"] {
+    [data-section-theme="dark"] {
         --text-color: var(--color-white);
         --section-title-color: var(--color-white);
         background-color: var(--color-black);
