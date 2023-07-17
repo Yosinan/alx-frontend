@@ -127,8 +127,8 @@ a:active {
 }
 
 .footer {
-    padding-left: var(--section-footer-padding);
-    padding-right: var(--section-footer-padding);
-    padding-top: var(--section-footer-padding);
-    padding-bottom: var(--section-footer-padding);
+    padding-left: var(--footer-padding);
+    padding-right: var(--footer-padding);
+    padding-top: var(--footer-padding);
+    padding-bottom: var(--footer-padding);
 }
