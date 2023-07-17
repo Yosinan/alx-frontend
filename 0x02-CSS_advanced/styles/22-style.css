@@ -37,13 +37,13 @@
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
+}
 
-    /* Add a dark theme to sections */
-    [data-section-theme="dark"] {
-        --text-color: var(--color-white);
-        --section-title-color: var(--color-white);
-        background-color: var(--color-black);
-    }
+/* Add a dark theme to sections */
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
 }
 
 *, *::before, *::after {
