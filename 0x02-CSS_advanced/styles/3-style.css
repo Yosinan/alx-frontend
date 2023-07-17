@@ -6,6 +6,7 @@
     --color-dark-gray: #353535;
     --text-color: var(--color-black);
 }
+
 html {
     scroll-behavior: smooth;
 }
