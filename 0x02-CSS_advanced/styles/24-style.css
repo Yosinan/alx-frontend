@@ -187,9 +187,9 @@ ul.row {
     padding: 0.5rem;
 }
 
-/* .card-services .card-title {
+.card-services .card-title {
     margin: 0;
-} */
+}
 
 .card-services a {
     display: block;
@@ -208,6 +208,7 @@ ul.row {
     color: var(--text-color);
     font-size: var(--font-size-small);
 }
+
 .footer {
     padding: var(--footer-padding);
 }
