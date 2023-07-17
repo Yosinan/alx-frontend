@@ -96,11 +96,8 @@ a:active {
     padding-bottom: var(--section-body-padding);
 }
 
-.footer {
-    padding-left: var(--section-footer-padding);
-    padding-right: var(--section-footer-padding);
-    padding-top: var(--section-footer-padding);
-    padding-bottom: var(--section-footer-padding);
+.section-footer {
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
@@ -128,6 +125,9 @@ a:active {
     color: var(--color-primary);
 }
 
-.section-footer {
-    text-align: var(--section-footer-align);
+.footer {
+    padding-left: var(--section-footer-padding);
+    padding-right: var(--section-footer-padding);
+    padding-top: var(--section-footer-padding);
+    padding-bottom: var(--section-footer-padding);
 }
