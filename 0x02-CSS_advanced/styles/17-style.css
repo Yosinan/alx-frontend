@@ -96,10 +96,6 @@ a:active {
     padding-bottom: var(--section-body-padding);
 }
 
-.section-footer {
-    text-align: var(--section-footer-align);
-}
-
 .footer {
     padding-left: var(--section-footer-padding);
     padding-right: var(--section-footer-padding);
@@ -130,4 +126,8 @@ a:active {
 
 .card-category {
     color: var(--color-primary);
+}
+
+.section-footer {
+    text-align: var(--section-footer-align);
 }
